@@ -627,6 +627,8 @@
         <property key="memories.programmemory" value="true"/>
         <property key="memories.programmemory.ranges" value="0-fffff"/>
         <property key="poweroptions.powerenable" value="false"/>
+        <property key="programmerToGoFilePath"
+                  value="C:/developers/_git_/github/LAN865x-TimeSync/noIP-SAM-E54-Curiosity-PTP-Follower/firmware/demo_LAN865x_PTP_Follower.X/debug/default/demo_LAN865x_PTP_Follower_ptg"/>
         <property key="programoptions.eraseb4program" value="true"/>
         <property key="programoptions.preservedataflash" value="false"/>
         <property key="programoptions.preservedataflash.ranges"
@@ -1451,6 +1453,8 @@
         <property key="memories.programmemory" value="true"/>
         <property key="memories.programmemory.ranges" value="0-fffff"/>
         <property key="poweroptions.powerenable" value="false"/>
+        <property key="programmerToGoFilePath"
+                  value="C:/developers/_git_/github/LAN865x-TimeSync/noIP-SAM-E54-Curiosity-PTP-Follower/firmware/demo_LAN865x_PTP_Follower.X/debug/release/demo_LAN865x_PTP_Follower_ptg"/>
         <property key="programoptions.eraseb4program" value="true"/>
         <property key="programoptions.preservedataflash" value="false"/>
         <property key="programoptions.preservedataflash.ranges"
